@@ -1,0 +1,5 @@
+0 rainy
+1 sunny
+2 cloudy
+3 night
+4 twilight
