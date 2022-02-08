@@ -87,7 +87,7 @@ interpreter.allocate_tensors()
 
 camera = PiCamera()
 
-while (now_time < project_start_time + timedelta(hours=3)):
+while (now_time < project_start_time + timedelta(minutes=175)):
 
     # Take a picture and save it in the raw img dir
     timestamp = str((datetime.now()))
@@ -110,18 +110,14 @@ while (now_time < project_start_time + timedelta(hours=3)):
         weather = labels.get(c.id, c.id)
         logger.info(f'{timestamp}.jpg: {weather} {c.score:.5f}')
 
-        if weather == 'night':
-            os.remove(image_file)
-            logger.info(f'Removed night time photo {timestamp}.jpg in order to save space')
-        else:
-            coordinates = ISS.coordinates()
-            coordinate_pair = (
-                coordinates.latitude.degrees,
-                coordinates.longitude.degrees)
-            location = reverse_geocoder.search(coordinate_pair)
-            ("Date/time", "Country", "City", "Weather")
-            row = (timestamp, location[0]['cc'], location[0]['name'], weather)
-            add_csv_data(data_file, row)
+        coordinates = ISS.coordinates()
+        coordinate_pair = (
+            coordinates.latitude.degrees,
+            coordinates.longitude.degrees)
+        location = reverse_geocoder.search(coordinate_pair)
+        ("Date/time", "Country", "City", "Weather")
+        row = (timestamp, location[0]['cc'], location[0]['name'], weather)
+        add_csv_data(data_file, row)
     
     # Update the current time
     now_time = datetime.now()
