@@ -93,6 +93,7 @@ create_csv(data_file)
 # The events log file
 logfile(f'{base_folder}/events.log')
 
+logger.info(f"I run in {base_folder}")
 
 interpreter = make_interpreter(f"{model_file}")
 interpreter.allocate_tensors()
