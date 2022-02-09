@@ -20,9 +20,6 @@ from logzero import logger, logfile
 # Start the 3h timer
 project_start_time = datetime.now()
 
-# Create a datetime variable for the current time
-now_time = datetime.now()
-
 base_folder = Path(__file__).parent.resolve()
 
 # Some csv functions
@@ -100,12 +97,16 @@ interpreter.allocate_tensors()
 
 camera = PiCamera()
 
+# Create a datetime variable for the current time
+now_time = datetime.now()
+
 while (now_time < project_start_time + timedelta(minutes=175)):
 
     # Take a picture and save it in the raw img dir
-    timestamp = str((datetime.now()))
+    timestamp = str(now_time)
     timestamp = timestamp[0:19]
     timestamp = re.sub(r'[:]', '-', re.sub(r'[ ]', '_', timestamp))
+    
     #camera.capture(f"{base_folder}/raw/{timestamp}.jpg")
     capture(camera, f"{base_folder}/raw/{timestamp}.jpg")
 
@@ -128,18 +129,20 @@ while (now_time < project_start_time + timedelta(minutes=175)):
             coordinate_pair = (
                 coordinates.latitude.degrees,
                 coordinates.longitude.degrees)
+            
             location = reverse_geocoder.search(coordinate_pair)
             ("Date/time", "Country", "City", "Weather")
+            # What is this ^
+
             row = (timestamp, location[0]['cc'], location[0]['name'], weather)
             add_csv_data(data_file, row)
         except:
             logger.error("Error in the for loop")
     
+    sleep(30)
+
     # Update the current time
     try:
         now_time = datetime.now()
     except:
         logger.error("Couldn't update the time")
-
-    
-    sleep(30)
