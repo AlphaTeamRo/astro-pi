@@ -28,14 +28,20 @@ base_folder = Path(__file__).parent.resolve()
 # Some csv functions
 def create_csv(data_file):
     with open(data_file, 'w') as f:
-        writer = csv.writer(f)
-        header = ("Date/time", "Country", "City", "Weather")
-        writer.writerow(header)
+        try:
+            writer = csv.writer(f)
+            header = ("Date/time", "Country", "City", "Weather")
+            writer.writerow(header)
+        except:
+            logger.error("Couldn't create a csv file")
 
 def add_csv_data(data_file, data):
     with open(data_file, 'a') as f:
-        writer = csv.writer(f)
-        writer.writerow(data)
+        try:
+            writer = csv.writer(f)
+            writer.writerow(data)
+        except:
+            logger.error("Couldn't add csv data")
 
 def convert(angle):
     """
@@ -43,26 +49,32 @@ def convert(angle):
     representation (rationals)
     e.g. 98° 34' 58.7 to "98/1,34/1,587/10"
     """
-    sign, degrees, minutes, seconds = angle.signed_dms()
-    exif_angle = f'{degrees:.0f}/1,{minutes:.0f}/1,{seconds*10:.0f}/10'
-    return sign < 0, exif_angle
+    try:
+        sign, degrees, minutes, seconds = angle.signed_dms()
+        exif_angle = f'{degrees:.0f}/1,{minutes:.0f}/1,{seconds*10:.0f}/10'
+        return sign < 0, exif_angle
+    except:
+        logger.error("Couldn't convert skyfiled angle to EXIF")
 
 def capture(camera, image):
     """Use `camera` to capture an `image` file with lat/long EXIF data."""
-    point = ISS.coordinates()
+    try:
+        point = ISS.coordinates()
 
-    # Convert the latitude and longitude to EXIF-appropriate representations
-    south, exif_latitude = convert(point.latitude)
-    west, exif_longitude = convert(point.longitude)
+        # Convert the latitude and longitude to EXIF-appropriate representations
+        south, exif_latitude = convert(point.latitude)
+        west, exif_longitude = convert(point.longitude)
 
-    # Set the EXIF tags specifying the current location
-    camera.exif_tags['GPS.GPSLatitude'] = exif_latitude
-    camera.exif_tags['GPS.GPSLatitudeRef'] = "S" if south else "N"
-    camera.exif_tags['GPS.GPSLongitude'] = exif_longitude
-    camera.exif_tags['GPS.GPSLongitudeRef'] = "W" if west else "E"
+        # Set the EXIF tags specifying the current location
+        camera.exif_tags['GPS.GPSLatitude'] = exif_latitude
+        camera.exif_tags['GPS.GPSLatitudeRef'] = "S" if south else "N"
+        camera.exif_tags['GPS.GPSLongitude'] = exif_longitude
+        camera.exif_tags['GPS.GPSLongitudeRef'] = "W" if west else "E"
 
-    # Capture the image
-    camera.capture(image)
+        # Capture the image
+        camera.capture(image)
+    except:
+        logger.error("Couldn't capture a photo")
 
 # the TFLite converted to be used with edgetpu
 model_file = f'{base_folder}/models/model_edgetpu.tflite'
@@ -107,20 +119,26 @@ while (now_time < project_start_time + timedelta(minutes=175)):
 
     labels = read_label_file(label_file)
     for c in classes:
-        weather = labels.get(c.id, c.id)
-        logger.info(f'{timestamp}.jpg: {weather} {c.score:.5f}')
+        try:
+            weather = labels.get(c.id, c.id)
+            logger.info(f'{timestamp}.jpg: {weather} {c.score:.5f}')
 
-        coordinates = ISS.coordinates()
-        coordinate_pair = (
-            coordinates.latitude.degrees,
-            coordinates.longitude.degrees)
-        location = reverse_geocoder.search(coordinate_pair)
-        ("Date/time", "Country", "City", "Weather")
-        row = (timestamp, location[0]['cc'], location[0]['name'], weather)
-        add_csv_data(data_file, row)
+            coordinates = ISS.coordinates()
+            coordinate_pair = (
+                coordinates.latitude.degrees,
+                coordinates.longitude.degrees)
+            location = reverse_geocoder.search(coordinate_pair)
+            ("Date/time", "Country", "City", "Weather")
+            row = (timestamp, location[0]['cc'], location[0]['name'], weather)
+            add_csv_data(data_file, row)
+        except:
+            logger.error("Error in the for loop")
     
     # Update the current time
-    now_time = datetime.now()
+    try:
+        now_time = datetime.now()
+    except:
+        logger.error("Couldn't update the time")
 
     
     sleep(30)
