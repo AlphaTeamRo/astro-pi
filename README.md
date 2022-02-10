@@ -11,7 +11,7 @@
 
 ### > The Astro-PI team members:
 - Cristian Eduard Mihai
-- Nicolau Catalin Ioan
+- Nicolau Cătălin Ioan
 
 ### > Out Mentor:
 - Ghițeanu Ion
@@ -19,7 +19,7 @@
 ### > Our robotics team:
 - Dragomir Isabela Gabriela
 - Cristian Eduard Mihai
-- Nita Ionescu Constantin
-- Nicolau Catalin
+- Niță Ionescu Constantin
+- Nicolau Cătălin Ioan
 - Grigore Razvan Marian
-- Balutoiu Bogdan Marius
+- Băluțoiu Bogdan Marius
