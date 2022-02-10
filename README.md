@@ -1,4 +1,4 @@
-# Alpha Robotics Team Târgoviște
+# Alpha Robotics Team Târgoviște - Romania
 ## A project made for the Astro PI 2021-2022 challenge
 
 ---
@@ -7,6 +7,19 @@
 
 ---
 
-## Team members
-- @CristianEduardMihai
-- @Hector-The-Coder
+## Honorable mentions:
+
+### > The Astro-PI team members:
+- Cristian Eduard Mihai
+- Nicolau Catalin Ioan
+
+### > Out Mentor:
+- Ghițeanu Ion
+
+### > Our robotics team:
+- Dragomir Isabela Gabriela
+- Cristian Eduard Mihai
+- Nita Ionescu Constantin
+- Nicolau Catalin
+- Grigore Razvan Marian
+- Balutoiu Bogdan Marius
