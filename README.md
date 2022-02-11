@@ -3,7 +3,7 @@
 
 ---
 
-### Our project uses pycoral, reverse geocoder, the orbit module and many other libraries in order to identify meteorological phenomena according to the types of clouds using the visible light camera, thus transforming the raspberry into a meteorological satellite and creating a live weather forecast.
+### Our project uses pycoral, reverse geocoder, the orbit module, and many other libraries in order to identify meteorological phenomena according to the types of clouds using the visible light camera, thus transforming the raspberry into a meteorological satellite and creating a live weather forecast.
 
 ---
 
