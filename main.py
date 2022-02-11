@@ -1,12 +1,12 @@
 """
 ------------------------------------------------------------------------------------------------------------------
-A project made by the romanian team "Alpha Robotics Team" Târgoviște for the Astro PI 2021-2022 challenge
-
-Our project uses pycoral, reverse geocoder, the orbit module and many other libraries
+A project made by the Romanian team "Alpha Robotics Team" Târgoviște for the Astro PI 2021-2022 challenge
+	
+Our project uses pycoral, reverse geocoder, the orbit module, and many other libraries
 in order to identify meteorological phenomena according to the types of clouds using the visible light camera,
 thus transforming the raspberry into a meteorological satellite and creating a live weather forecast.
 
-Credit to all our team members, friends and families who supported us.
+Credit to all our team members, friends, and families who supported us.
 
 Honorable mentions:
 
@@ -171,7 +171,7 @@ while (now_time < project_start_time + timedelta(minutes=175)):
         except:
             logger.error("Error in the for loop")
     
-    sleep(30)
+    sleep(20)
 
     # Update the current time
     try:
