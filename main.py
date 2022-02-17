@@ -21,7 +21,7 @@ Honorable mentions:
 >Dragomir Isabela Gabriela
 >Cristian Eduard Mihai
 >Niță Ionescu Constantin
->Nicolau Cătălin
+>Nicolau Cătălin Ioan
 >Grigore Razvan Marian
 >Băluțoiu Bogdan Marius
 ------------------------------------------------------------------------------------------------------------------
@@ -52,7 +52,7 @@ project_start_time = datetime.now()
 
 base_folder = Path(__file__).parent.resolve()
 
-# Some csv functions
+# Functions for creating and appending data in a CSV file
 def create_csv(data_file):
     with open(data_file, 'w') as f:
         try:
@@ -84,11 +84,15 @@ def convert(angle):
         logger.error("Couldn't convert skyfiled angle to EXIF")
 
 def capture(camera, image):
-    """Use `camera` to capture an `image` file with lat/long EXIF data."""
+    """
+    Use `camera` to capture an `image` 
+    file with latitude/longitude EXIF data.
+    """
     try:
         point = ISS.coordinates()
 
-        # Convert the latitude and longitude to EXIF-appropriate representations
+        # Convert the latitude and longitude
+        # to EXIF-appropriate representations
         south, exif_latitude = convert(point.latitude)
         west, exif_longitude = convert(point.longitude)
 
@@ -106,18 +110,20 @@ def capture(camera, image):
 # the TFLite converted to be used with edgetpu
 model_file = f'{base_folder}/models/model_edgetpu.tflite'
 
-# The path to labels.txt that was downloaded with your model
+# The path to labels.txt that
+# was downloaded with your model
 label_file = f'{base_folder}/models/labels.txt'
 
 # The path to the raw photos dir
 img_dir = f'{base_folder}/raw'
 
-# The main csv file, where the meteorological data will be recorded
+# The main CSV file, where the
+# meteorological data will be recorded
 data_file = f'{base_folder}/data.csv'
 
 create_csv(data_file)
 
-# The events log file
+# The log file for events
 logfile(f'{base_folder}/events.log')
 
 print("Hello from Romania !")
@@ -129,17 +135,18 @@ interpreter.allocate_tensors()
 
 camera = PiCamera()
 
-# Create a datetime variable for the current time
+# Create a variable wich will be
+# used for querying the current time
 now_time = datetime.now()
 
 while (now_time < project_start_time + timedelta(minutes=175)):
 
-    # Take a picture and save it in the raw img dir
+    # Take a picture and save it
+    # in the RAW image directory
     timestamp = str(now_time)
     timestamp = timestamp[0:19]
     timestamp = re.sub(r'[:]', '-', re.sub(r'[ ]', '_', timestamp))
     
-    #camera.capture(f"{base_folder}/raw/{timestamp}.jpg")
     capture(camera, f"{base_folder}/raw/{timestamp}.jpg")
 
     image_file = f"{base_folder}/raw/{timestamp}.jpg"
@@ -164,7 +171,6 @@ while (now_time < project_start_time + timedelta(minutes=175)):
             
             location = reverse_geocoder.search(coordinate_pair)
             ("Date/time", "Country", "City", "Weather")
-            # What is this ^
 
             row = (timestamp, location[0]['cc'], location[0]['name'], weather)
             add_csv_data(data_file, row)
@@ -173,7 +179,7 @@ while (now_time < project_start_time + timedelta(minutes=175)):
     
     sleep(20)
 
-    # Update the current time
+    # Update the variable
     try:
         now_time = datetime.now()
     except:
