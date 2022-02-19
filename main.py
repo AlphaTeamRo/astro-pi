@@ -59,27 +59,27 @@ def files_check(logger):
     else:
         try:
             os.makedirs(f"{base_folder}/raw")
-            logger.error("There was no raw image directory")
+            logger.error("There was no raw image directory, so I made one")
         except:
-            logger.error("There was no raw image directory and i couldn\'t make one")
+            logger.error("There was no raw image directory and I couldn\'t make one")
     
     if os.path.exists(f"{base_folder}/events.log"):
         pass
     else:
         try:
-            logger.error("There was no events.log file")
+            logger.error("There was no events.log file, so I made one")
             open(f"{base_folder}/events.log", 'a').close()
         except:
-            logger.error("There was no events.log file and i couldn\'t make one")
+            logger.error("There was no events.log file and I couldn\'t make one")
     
     if os.path.exists(f"{base_folder}/data.csv"):
         pass
     else:
         try:
-            logger.error("There was no data.csv file")
+            logger.error("There was no data.csv file, so I made one")
             open(f"{base_folder}/data.csv", 'a').close()
         except:
-            logger.error("There was no data.csv file and i couldn\'t make one")
+            logger.error("There was no data.csv file and I couldn\'t make one")
 
 
 
@@ -172,7 +172,7 @@ camera = PiCamera()
 # used for querying the current time
 now_time = datetime.now()
 
-while (now_time < project_start_time + timedelta(minutes=175)):
+while (now_time < project_start_time + timedelta(minutes=170)):
 
     # Take a picture and save it
     # in the RAW image directory
@@ -210,7 +210,7 @@ while (now_time < project_start_time + timedelta(minutes=175)):
         except:
             logger.error("Error in the for loop")
     
-    sleep(20)
+    sleep(9)
 
     # Update the variable
     try:
