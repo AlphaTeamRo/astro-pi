@@ -220,3 +220,5 @@ while (now_time < project_start_time + timedelta(minutes=170)):
         now_time = datetime.now()
     except:
         logger.error("Couldn't update the time")
+
+logger.info(f"Stopped at {str(datetime.now())}")
