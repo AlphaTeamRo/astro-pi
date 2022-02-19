@@ -21,5 +21,5 @@
 - Cristian Eduard Mihai
 - Niță Ionescu Constantin
 - Nicolau Cătălin Ioan
-- Grigore Razvan Marian
+- Grigore Răzvan Marian
 - Băluțoiu Bogdan Marius

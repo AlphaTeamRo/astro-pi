@@ -1,7 +1,7 @@
 """
 ------------------------------------------------------------------------------------------------------------------
 A project made by the Romanian team "Alpha Robotics Team" Târgoviște for the Astro PI 2021-2022 challenge
-	
+
 Our project uses pycoral, reverse geocoder, the orbit module, and many other libraries
 in order to identify meteorological phenomena according to the types of clouds using the visible light camera,
 thus transforming the raspberry into a meteorological satellite and creating a live weather forecast.
@@ -22,7 +22,7 @@ Honorable mentions:
 >Cristian Eduard Mihai
 >Niță Ionescu Constantin
 >Nicolau Cătălin Ioan
->Grigore Razvan Marian
+>Grigore Răzvan Marian
 >Băluțoiu Bogdan Marius
 ------------------------------------------------------------------------------------------------------------------
 """
@@ -161,7 +161,10 @@ print("Hello from Romania !")
 
 files_check(logger)
 
-logger.info(f"I run in {base_folder}")
+try:
+    logger.info(f"I run in {str(base_folder)}}")
+except:
+    logger.error("Couldn\'t log the file location")
 
 interpreter = make_interpreter(f"{model_file}")
 interpreter.allocate_tensors()
