@@ -52,6 +52,37 @@ project_start_time = datetime.now()
 
 base_folder = Path(__file__).parent.resolve()
 
+def files_check(logger):
+    #check if all the files are present
+    if os.path.exists(f"{base_folder}/raw"):
+        pass
+    else:
+        try:
+            os.makedirs(f"{base_folder}/raw")
+            logger.error("There was no raw image directory")
+        except:
+            logger.error("There was no raw image directory and i couldn\'t make one")
+    
+    if os.path.exists(f"{base_folder}/events.log"):
+        pass
+    else:
+        try:
+            logger.error("There was no events.log file")
+            open(f"{base_folder}/events.log", 'a').close()
+        except:
+            logger.error("There was no events.log file and i couldn\'t make one")
+    
+    if os.path.exists(f"{base_folder}/data.csv"):
+        pass
+    else:
+        try:
+            logger.error("There was no data.csv file")
+            open(f"{base_folder}/data.csv", 'a').close()
+        except:
+            logger.error("There was no data.csv file and i couldn\'t make one")
+
+
+
 # Functions for creating and appending data in a CSV file
 def create_csv(data_file):
     with open(data_file, 'w') as f:
@@ -127,6 +158,8 @@ create_csv(data_file)
 logfile(f'{base_folder}/events.log')
 
 print("Hello from Romania !")
+
+files_check(logger)
 
 logger.info(f"I run in {base_folder}")
 
