@@ -162,7 +162,7 @@ print("Hello from Romania !")
 files_check(logger)
 
 try:
-    logger.info(f"I run in {str(base_folder)}}")
+    logger.info(f"I run in {str(base_folder)}")
 except:
     logger.error("Couldn\'t log the file location")
 
