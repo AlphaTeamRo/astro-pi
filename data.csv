@@ -1,0 +1,1036 @@
+Date/time,Country,City,Weather
+2022-04-30_10-16-22,MA,Agdz,sunny
+2022-04-30_10-16-36,MA,Mhamid,sunny
+2022-04-30_10-16-46,MA,Mhamid,sunny
+2022-04-30_10-16-56,MA,Mhamid,sunny
+2022-04-30_10-17-05,MA,Mhamid,sunny
+2022-04-30_10-17-15,MA,Mhamid,sunny
+2022-04-30_10-17-25,DZ,Adrar,sunny
+2022-04-30_10-17-35,DZ,Adrar,sunny
+2022-04-30_10-17-45,DZ,Adrar,sunny
+2022-04-30_10-17-54,DZ,Reggane,sunny
+2022-04-30_10-18-04,DZ,Reggane,sunny
+2022-04-30_10-18-14,DZ,Reggane,sunny
+2022-04-30_10-18-24,DZ,Reggane,sunny
+2022-04-30_10-18-34,DZ,Reggane,sunny
+2022-04-30_10-18-43,DZ,Reggane,sunny
+2022-04-30_10-18-53,ML,Tessalit,sunny
+2022-04-30_10-19-03,ML,Tessalit,sunny
+2022-04-30_10-19-13,ML,Tessalit,sunny
+2022-04-30_10-19-22,ML,Tessalit,sunny
+2022-04-30_10-19-32,ML,Tessalit,sunny
+2022-04-30_10-19-42,ML,Tessalit,sunny
+2022-04-30_10-19-52,ML,Abeibara,sunny
+2022-04-30_10-20-02,ML,Ti-n-Essako,sunny
+2022-04-30_10-20-11,ML,Ti-n-Essako,sunny
+2022-04-30_10-20-21,ML,Ti-n-Essako,sunny
+2022-04-30_10-20-31,ML,Ti-n-Essako,sunny
+2022-04-30_10-20-41,NE,Tchintabaraden,sunny
+2022-04-30_10-20-51,NE,Tchintabaraden,sunny
+2022-04-30_10-21-00,NE,Tchintabaraden,sunny
+2022-04-30_10-21-10,NE,Tchintabaraden,sunny
+2022-04-30_10-21-20,NE,Abalak,sunny
+2022-04-30_10-21-30,NE,Abalak,sunny
+2022-04-30_10-21-40,NE,Dakoro,sunny
+2022-04-30_10-21-49,NE,Mayahi,sunny
+2022-04-30_10-21-59,NE,Tessaoua,sunny
+2022-04-30_10-22-09,NE,Kantche,sunny
+2022-04-30_10-22-19,NG,Zango,sunny
+2022-04-30_10-22-29,NG,Garki,sunny
+2022-04-30_10-22-38,NG,Jahun,sunny
+2022-04-30_10-22-48,NG,Gantsa,sunny
+2022-04-30_10-22-58,NG,Darazo,sunny
+2022-04-30_10-23-08,NG,Bara,cloudy
+2022-04-30_10-23-18,NG,Pindiga,sunny
+2022-04-30_10-23-27,NG,Dadiya,sunny
+2022-04-30_10-23-37,NG,Jalingo,cloudy
+2022-04-30_10-23-47,NG,Ganye,cloudy
+2022-04-30_10-23-57,CM,Kontcha,sunny
+2022-04-30_10-24-07,CM,Tignere,sunny
+2022-04-30_10-24-16,CM,Tignere,sunny
+2022-04-30_10-24-26,CM,Ngaoundere,sunny
+2022-04-30_10-24-36,CM,Betare Oya,cloudy
+2022-04-30_10-24-46,CM,Betare Oya,cloudy
+2022-04-30_10-24-56,CM,Betare Oya,cloudy
+2022-04-30_10-25-05,CM,Batouri,cloudy
+2022-04-30_10-25-15,CF,Gamboula,cloudy
+2022-04-30_10-25-25,CM,Yokadouma,cloudy
+2022-04-30_10-25-35,CF,Nola,cloudy
+2022-04-30_10-25-45,CF,Nola,cloudy
+2022-04-30_10-25-54,CG,Ouesso,cloudy
+2022-04-30_10-26-04,CG,Ouesso,cloudy
+2022-04-30_10-26-14,CG,Impfondo,cloudy
+2022-04-30_10-26-24,CD,Mbandaka,cloudy
+2022-04-30_10-26-34,CD,Mbandaka,cloudy
+2022-04-30_10-26-43,CD,Mbandaka,rainy
+2022-04-30_10-26-53,CD,Mbandaka,rainy
+2022-04-30_10-27-03,CD,Inongo,rainy
+2022-04-30_10-27-13,CD,Inongo,rainy
+2022-04-30_10-27-23,CD,Inongo,rainy
+2022-04-30_10-27-32,CD,Mangai,rainy
+2022-04-30_10-27-42,CD,Ilebo,rainy
+2022-04-30_10-27-52,CD,Ilebo,rainy
+2022-04-30_10-28-02,CD,Ilebo,rainy
+2022-04-30_10-28-12,CD,Mweka,rainy
+2022-04-30_10-28-21,CD,Demba,sunny
+2022-04-30_10-28-31,CD,Kananga,cloudy
+2022-04-30_10-28-41,CD,Kananga,sunny
+2022-04-30_10-28-51,CD,Mwene-Ditu,sunny
+2022-04-30_10-29-01,CD,Mwene-Ditu,sunny
+2022-04-30_10-29-10,CD,Mwene-Ditu,sunny
+2022-04-30_10-29-20,CD,Kamina,sunny
+2022-04-30_10-29-30,CD,Kamina,sunny
+2022-04-30_10-29-40,CD,Kamina,cloudy
+2022-04-30_10-29-50,CD,Kolwezi,cloudy
+2022-04-30_10-29-59,CD,Kolwezi,cloudy
+2022-04-30_10-30-09,CD,Kolwezi,cloudy
+2022-04-30_10-30-19,CD,Kambove,cloudy
+2022-04-30_10-30-29,ZM,Kansanshi,sunny
+2022-04-30_10-30-39,ZM,Kansanshi,sunny
+2022-04-30_10-30-48,ZM,Chingola,sunny
+2022-04-30_10-30-58,ZM,Mpongwe,sunny
+2022-04-30_10-31-08,ZM,Mpongwe,sunny
+2022-04-30_10-31-18,ZM,Kabwe,sunny
+2022-04-30_10-31-28,ZM,Kabwe,cloudy
+2022-04-30_10-31-38,ZM,Chongwe,sunny
+2022-04-30_10-31-47,ZW,Chirundu,sunny
+2022-04-30_10-31-57,ZW,Karoi,sunny
+2022-04-30_10-32-07,ZW,Mhangura,sunny
+2022-04-30_10-32-17,ZW,Mvurwi,sunny
+2022-04-30_10-32-27,ZW,Harare,sunny
+2022-04-30_10-32-36,ZW,Marondera,sunny
+2022-04-30_10-32-46,ZW,Rusape,sunny
+2022-04-30_10-32-56,ZW,Odzi,sunny
+2022-04-30_10-33-06,ZW,Chimanimani,sunny
+2022-04-30_10-33-16,ZW,Chimanimani,sunny
+2022-04-30_10-33-25,ZW,Chipinge,sunny
+2022-04-30_10-33-35,MZ,Beira,sunny
+2022-04-30_10-33-45,MZ,Beira,sunny
+2022-04-30_10-33-55,MZ,Maxixe,sunny
+2022-04-30_10-34-05,MZ,Maxixe,sunny
+2022-04-30_10-34-15,MZ,Inhambane,sunny
+2022-04-30_10-34-24,MZ,Inhambane,sunny
+2022-04-30_10-34-34,MZ,Inhambane,sunny
+2022-04-30_10-34-44,MZ,Inhambane,sunny
+2022-04-30_10-34-54,MZ,Inhambane,sunny
+2022-04-30_10-35-04,MZ,Inhambane,sunny
+2022-04-30_10-35-13,MZ,Inhambane,sunny
+2022-04-30_10-35-23,MZ,Inhambane,sunny
+2022-04-30_10-35-33,MZ,Inhambane,sunny
+2022-04-30_10-35-43,MZ,Inhambane,sunny
+2022-04-30_10-35-53,MG,Anakao,sunny
+2022-04-30_10-36-02,MG,Tranovaho,cloudy
+2022-04-30_10-36-12,MG,Tranovaho,cloudy
+2022-04-30_10-36-22,MG,Tranovaho,cloudy
+2022-04-30_10-36-32,MG,Tranovaho,cloudy
+2022-04-30_10-36-42,MG,Tranovaho,sunny
+2022-04-30_10-36-51,MG,Tranovaho,sunny
+2022-04-30_10-37-01,MG,Tranovaho,sunny
+2022-04-30_10-37-11,MG,Tranovaho,sunny
+2022-04-30_10-37-21,MG,Tranovaho,sunny
+2022-04-30_10-37-31,MG,Tranovaho,sunny
+2022-04-30_10-37-40,MG,Tranovaho,sunny
+2022-04-30_10-37-50,MG,Tsiombe,sunny
+2022-04-30_10-38-00,MG,Tsiombe,sunny
+2022-04-30_10-38-10,MG,Tsiombe,sunny
+2022-04-30_10-38-20,MG,Tsiombe,sunny
+2022-04-30_10-38-29,MG,Ambovombe,sunny
+2022-04-30_10-38-39,MG,Fort Dauphin,sunny
+2022-04-30_10-38-49,MG,Fort Dauphin,sunny
+2022-04-30_10-38-59,MG,Fort Dauphin,sunny
+2022-04-30_10-39-09,MG,Fort Dauphin,cloudy
+2022-04-30_10-39-18,MG,Fort Dauphin,cloudy
+2022-04-30_10-39-28,MG,Fort Dauphin,cloudy
+2022-04-30_10-39-38,MG,Fort Dauphin,rainy
+2022-04-30_10-39-48,MG,Fort Dauphin,rainy
+2022-04-30_10-39-58,MG,Fort Dauphin,cloudy
+2022-04-30_10-40-08,MG,Fort Dauphin,cloudy
+2022-04-30_10-40-17,MG,Fort Dauphin,cloudy
+2022-04-30_10-40-27,MG,Fort Dauphin,cloudy
+2022-04-30_10-40-37,MG,Fort Dauphin,cloudy
+2022-04-30_10-40-47,TF,Port-aux-Francais,cloudy
+2022-04-30_10-40-57,TF,Port-aux-Francais,cloudy
+2022-04-30_10-41-06,TF,Port-aux-Francais,cloudy
+2022-04-30_10-41-16,TF,Port-aux-Francais,cloudy
+2022-04-30_10-41-26,TF,Port-aux-Francais,cloudy
+2022-04-30_10-41-36,TF,Port-aux-Francais,cloudy
+2022-04-30_10-41-46,TF,Port-aux-Francais,cloudy
+2022-04-30_10-41-55,TF,Port-aux-Francais,cloudy
+2022-04-30_10-42-05,TF,Port-aux-Francais,cloudy
+2022-04-30_10-42-15,TF,Port-aux-Francais,cloudy
+2022-04-30_10-42-25,TF,Port-aux-Francais,cloudy
+2022-04-30_10-42-35,TF,Port-aux-Francais,cloudy
+2022-04-30_10-42-44,TF,Port-aux-Francais,cloudy
+2022-04-30_10-42-54,TF,Port-aux-Francais,cloudy
+2022-04-30_10-43-04,TF,Port-aux-Francais,cloudy
+2022-04-30_10-43-14,TF,Port-aux-Francais,cloudy
+2022-04-30_10-43-24,TF,Port-aux-Francais,rainy
+2022-04-30_10-43-34,TF,Port-aux-Francais,rainy
+2022-04-30_10-43-43,TF,Port-aux-Francais,sunny
+2022-04-30_10-43-53,TF,Port-aux-Francais,cloudy
+2022-04-30_10-44-03,TF,Port-aux-Francais,cloudy
+2022-04-30_10-44-13,TF,Port-aux-Francais,sunny
+2022-04-30_10-44-23,TF,Port-aux-Francais,sunny
+2022-04-30_10-44-33,TF,Port-aux-Francais,sunny
+2022-04-30_10-44-42,TF,Port-aux-Francais,sunny
+2022-04-30_10-44-52,TF,Port-aux-Francais,sunny
+2022-04-30_10-45-02,TF,Port-aux-Francais,sunny
+2022-04-30_10-45-12,TF,Port-aux-Francais,sunny
+2022-04-30_10-45-22,TF,Port-aux-Francais,sunny
+2022-04-30_10-45-32,TF,Port-aux-Francais,sunny
+2022-04-30_10-45-41,TF,Port-aux-Francais,sunny
+2022-04-30_10-45-51,TF,Port-aux-Francais,sunny
+2022-04-30_10-46-01,TF,Port-aux-Francais,sunny
+2022-04-30_10-46-11,TF,Port-aux-Francais,sunny
+2022-04-30_10-46-21,TF,Port-aux-Francais,sunny
+2022-04-30_10-46-31,TF,Port-aux-Francais,sunny
+2022-04-30_10-46-40,TF,Port-aux-Francais,sunny
+2022-04-30_10-46-50,TF,Port-aux-Francais,sunny
+2022-04-30_10-47-00,TF,Port-aux-Francais,sunny
+2022-04-30_10-47-10,TF,Port-aux-Francais,sunny
+2022-04-30_10-47-20,TF,Port-aux-Francais,cloudy
+2022-04-30_10-47-30,TF,Port-aux-Francais,cloudy
+2022-04-30_10-47-40,TF,Port-aux-Francais,cloudy
+2022-04-30_10-47-49,TF,Port-aux-Francais,cloudy
+2022-04-30_10-47-59,TF,Port-aux-Francais,cloudy
+2022-04-30_10-48-09,TF,Port-aux-Francais,cloudy
+2022-04-30_10-48-19,TF,Port-aux-Francais,cloudy
+2022-04-30_10-48-29,TF,Port-aux-Francais,cloudy
+2022-04-30_10-48-39,TF,Port-aux-Francais,cloudy
+2022-04-30_10-48-49,TF,Port-aux-Francais,twilight
+2022-04-30_10-48-59,AU,Augusta,twilight
+2022-04-30_10-49-09,AU,Augusta,twilight
+2022-04-30_10-49-19,AU,Augusta,twilight
+2022-04-30_10-49-28,AU,Augusta,twilight
+2022-04-30_10-49-38,AU,Augusta,twilight
+2022-04-30_10-49-48,AU,Augusta,twilight
+2022-04-30_10-49-58,AU,Augusta,twilight
+2022-04-30_10-50-08,AU,Augusta,twilight
+2022-04-30_10-50-18,AU,Augusta,twilight
+2022-04-30_10-50-28,AU,Augusta,twilight
+2022-04-30_10-50-38,AU,Augusta,twilight
+2022-04-30_10-50-48,AU,Augusta,twilight
+2022-04-30_10-50-58,AU,Augusta,twilight
+2022-04-30_10-51-07,AU,Augusta,twilight
+2022-04-30_10-51-17,AU,Augusta,night
+2022-04-30_10-51-27,AU,Denmark,night
+2022-04-30_10-51-37,AU,Denmark,twilight
+2022-04-30_10-51-47,AU,Denmark,twilight
+2022-04-30_10-51-57,AU,Denmark,twilight
+2022-04-30_10-52-07,AU,Grasmere,twilight
+2022-04-30_10-52-17,AU,Grasmere,twilight
+2022-04-30_10-52-27,AU,Grasmere,twilight
+2022-04-30_10-52-37,AU,Grasmere,twilight
+2022-04-30_10-52-46,AU,Grasmere,twilight
+2022-04-30_10-52-56,AU,Albany,night
+2022-04-30_10-53-06,AU,Albany,night
+2022-04-30_10-53-16,AU,Albany,night
+2022-04-30_10-53-26,AU,Albany,night
+2022-04-30_10-53-36,AU,Albany,night
+2022-04-30_10-53-46,AU,Esperance,night
+2022-04-30_10-53-56,AU,Esperance,night
+2022-04-30_10-54-06,AU,Esperance,night
+2022-04-30_10-54-15,AU,Esperance,night
+2022-04-30_10-54-25,AU,Port Lincoln,night
+2022-04-30_10-54-35,AU,Port Lincoln,night
+2022-04-30_10-54-45,AU,Port Lincoln,night
+2022-04-30_10-54-55,AU,Kingscote,night
+2022-04-30_10-55-05,AU,Millicent,night
+2022-04-30_10-55-15,AU,Millicent,night
+2022-04-30_10-55-25,AU,Millicent,night
+2022-04-30_10-55-35,AU,Millicent,night
+2022-04-30_10-55-45,AU,Millicent,night
+2022-04-30_10-55-54,AU,Millicent,night
+2022-04-30_10-56-04,AU,Mount Gambier,night
+2022-04-30_10-56-14,AU,Portland,night
+2022-04-30_10-56-24,AU,Portland,night
+2022-04-30_10-56-34,AU,Portland,night
+2022-04-30_10-56-44,AU,Currie,night
+2022-04-30_10-56-54,AU,Currie,night
+2022-04-30_10-57-04,AU,Currie,night
+2022-04-30_10-57-14,AU,Queenstown,night
+2022-04-30_10-57-23,AU,Queenstown,night
+2022-04-30_10-57-33,AU,Queenstown,night
+2022-04-30_10-57-43,AU,Queenstown,night
+2022-04-30_10-57-53,AU,Queenstown,night
+2022-04-30_10-58-03,AU,Queenstown,night
+2022-04-30_10-58-13,AU,Rosebery,night
+2022-04-30_10-58-23,AU,Sheffield,night
+2022-04-30_10-58-33,AU,George Town,night
+2022-04-30_10-58-43,AU,Bridport,night
+2022-04-30_10-58-52,AU,Bridport,night
+2022-04-30_10-59-02,AU,St Helens,night
+2022-04-30_10-59-12,AU,Lakes Entrance,night
+2022-04-30_10-59-22,AU,Eden,night
+2022-04-30_10-59-32,AU,Eden,night
+2022-04-30_10-59-42,AU,Eden,night
+2022-04-30_10-59-52,AU,Eden,night
+2022-04-30_11-00-02,AU,Eden,night
+2022-04-30_11-00-12,AU,Narooma,night
+2022-04-30_11-00-21,AU,Greenwell Point,night
+2022-04-30_11-00-31,AU,Gerringong,night
+2022-04-30_11-00-41,AU,Malabar,night
+2022-04-30_11-00-51,AU,Nelson Bay,night
+2022-04-30_11-01-01,AU,Hawks Nest,night
+2022-04-30_11-01-11,AU,Forster,night
+2022-04-30_11-01-21,AU,Harrington,night
+2022-04-30_11-01-31,AU,North Haven,night
+2022-04-30_11-01-41,AU,Port Macquarie,night
+2022-04-30_11-01-51,AU,Port Macquarie,night
+2022-04-30_11-02-00,AU,Crescent Head,night
+2022-04-30_11-02-10,AU,Crescent Head,night
+2022-04-30_11-02-20,AU,Woolgoolga,night
+2022-04-30_11-02-30,AU,East Ballina,night
+2022-04-30_11-02-40,NF,Kingston,night
+2022-04-30_11-02-50,NF,Kingston,night
+2022-04-30_11-03-00,NF,Kingston,night
+2022-04-30_11-03-10,NF,Kingston,night
+2022-04-30_11-03-20,NF,Kingston,night
+2022-04-30_11-03-29,NF,Kingston,night
+2022-04-30_11-03-39,NF,Kingston,night
+2022-04-30_11-03-49,NF,Kingston,night
+2022-04-30_11-03-59,NF,Kingston,night
+2022-04-30_11-04-09,NF,Kingston,night
+2022-04-30_11-04-19,NF,Kingston,night
+2022-04-30_11-04-29,NC,Vao,night
+2022-04-30_11-04-39,NC,Vao,night
+2022-04-30_11-04-49,NC,Vao,night
+2022-04-30_11-04-58,NC,Vao,night
+2022-04-30_11-05-08,NC,Vao,night
+2022-04-30_11-05-18,NC,Vao,night
+2022-04-30_11-05-28,NC,Vao,night
+2022-04-30_11-05-38,NC,Tadine,night
+2022-04-30_11-05-48,NC,Tadine,night
+2022-04-30_11-05-58,VU,Isangel,night
+2022-04-30_11-06-08,VU,Isangel,night
+2022-04-30_11-06-18,VU,Isangel,night
+2022-04-30_11-06-28,VU,Isangel,night
+2022-04-30_11-06-37,VU,Isangel,night
+2022-04-30_11-06-47,VU,Isangel,night
+2022-04-30_11-06-57,VU,Isangel,night
+2022-04-30_11-07-07,VU,Isangel,night
+2022-04-30_11-07-17,FJ,Nadi,night
+2022-04-30_11-07-27,FJ,Nadi,night
+2022-04-30_11-07-37,FJ,Lautoka,night
+2022-04-30_11-07-47,FJ,Lautoka,night
+2022-04-30_11-07-57,FJ,Lautoka,night
+2022-04-30_11-08-06,FJ,Ahau,night
+2022-04-30_11-08-16,FJ,Ahau,night
+2022-04-30_11-08-26,FJ,Ahau,night
+2022-04-30_11-08-36,FJ,Ahau,night
+2022-04-30_11-08-46,FJ,Ahau,night
+2022-04-30_11-08-56,FJ,Ahau,night
+2022-04-30_11-09-06,FJ,Ahau,night
+2022-04-30_11-09-16,FJ,Ahau,night
+2022-04-30_11-09-26,FJ,Ahau,night
+2022-04-30_11-09-35,TV,Funafuti,night
+2022-04-30_11-09-45,TV,Funafuti,night
+2022-04-30_11-09-55,TV,Funafuti,night
+2022-04-30_11-10-05,TV,Funafuti,night
+2022-04-30_11-10-15,WF,Sigave,night
+2022-04-30_11-10-25,WF,Mata-Utu,night
+2022-04-30_11-10-35,WF,Mata-Utu,night
+2022-04-30_11-10-45,TK,Atafu Village,night
+2022-04-30_11-10-55,TK,Atafu Village,night
+2022-04-30_11-11-04,TK,Atafu Village,night
+2022-04-30_11-11-14,TK,Atafu Village,night
+2022-04-30_11-11-24,TK,Atafu Village,night
+2022-04-30_11-11-34,TK,Atafu Village,night
+2022-04-30_11-11-44,TK,Atafu Village,night
+2022-04-30_11-11-54,TK,Atafu Village,night
+2022-04-30_11-12-04,TK,Atafu Village,night
+2022-04-30_11-12-14,TK,Atafu Village,night
+2022-04-30_11-12-24,TK,Atafu Village,night
+2022-04-30_11-12-33,TK,Atafu Village,night
+2022-04-30_11-12-43,TK,Atafu Village,night
+2022-04-30_11-12-53,TK,Atafu Village,night
+2022-04-30_11-13-03,TK,Atafu Village,night
+2022-04-30_11-13-13,TK,Atafu Village,night
+2022-04-30_11-13-23,TK,Atafu Village,night
+2022-04-30_11-13-33,TK,Atafu Village,night
+2022-04-30_11-13-43,TK,Atafu Village,night
+2022-04-30_11-13-52,TK,Atafu Village,night
+2022-04-30_11-14-02,TK,Atafu Village,night
+2022-04-30_11-14-12,TK,Atafu Village,night
+2022-04-30_11-14-22,KI,Napari Village,night
+2022-04-30_11-14-32,KI,Napari Village,night
+2022-04-30_11-14-42,KI,Napari Village,night
+2022-04-30_11-14-52,KI,Napari Village,night
+2022-04-30_11-15-02,KI,Napari Village,night
+2022-04-30_11-15-12,KI,Napari Village,night
+2022-04-30_11-15-22,KI,Napari Village,night
+2022-04-30_11-15-31,KI,Napari Village,night
+2022-04-30_11-15-41,KI,Napari Village,night
+2022-04-30_11-15-51,KI,Napari Village,night
+2022-04-30_11-16-01,KI,Napari Village,night
+2022-04-30_11-16-11,KI,Napari Village,night
+2022-04-30_11-16-21,KI,Napari Village,night
+2022-04-30_11-16-31,KI,Napari Village,night
+2022-04-30_11-16-41,KI,Napari Village,night
+2022-04-30_11-16-50,KI,Napari Village,night
+2022-04-30_11-17-00,KI,Napari Village,night
+2022-04-30_11-17-10,KI,Napari Village,night
+2022-04-30_11-17-20,US,Kekaha,night
+2022-04-30_11-17-30,US,Kekaha,night
+2022-04-30_11-17-40,US,Hanapepe,night
+2022-04-30_11-17-50,US,Hanapepe,night
+2022-04-30_11-18-00,US,Hanapepe,night
+2022-04-30_11-18-10,US,Hanapepe,night
+2022-04-30_11-18-19,US,Hanapepe,night
+2022-04-30_11-18-29,US,Hanapepe,night
+2022-04-30_11-18-39,US,Hanapepe,night
+2022-04-30_11-18-49,US,Hanapepe,night
+2022-04-30_11-18-59,US,Hanapepe,night
+2022-04-30_11-19-09,US,Hanapepe,night
+2022-04-30_11-19-19,US,Makakilo City,night
+2022-04-30_11-19-29,US,Makakilo City,night
+2022-04-30_11-19-39,US,Makakilo City,night
+2022-04-30_11-19-48,US,Makakilo City,night
+2022-04-30_11-19-58,US,'Ewa Beach,night
+2022-04-30_11-20-08,US,Waimanalo Beach,night
+2022-04-30_11-20-18,US,Marine Corps Base Hawaii - MCBH,night
+2022-04-30_11-20-28,US,Kualapu'u,night
+2022-04-30_11-20-38,US,Waialua,night
+2022-04-30_11-20-48,US,Waialua,night
+2022-04-30_11-20-58,US,Waialua,night
+2022-04-30_11-21-08,US,Haiku-Pauwela,night
+2022-04-30_11-21-17,US,Haiku-Pauwela,night
+2022-04-30_11-21-27,US,Wailua,night
+2022-04-30_11-21-37,US,Wailua,night
+2022-04-30_11-21-47,US,Wailua,night
+2022-04-30_11-21-57,US,Wailua,night
+2022-04-30_11-22-07,US,Wailua,night
+2022-04-30_11-22-17,US,Wailua,night
+2022-04-30_11-22-27,US,Hana,night
+2022-04-30_11-22-37,US,Hana,night
+2022-04-30_11-22-47,US,Hana,night
+2022-04-30_11-22-56,US,Hana,night
+2022-04-30_11-23-06,US,Hana,night
+2022-04-30_11-23-16,US,Hana,night
+2022-04-30_11-23-26,US,Hana,night
+2022-04-30_11-23-36,US,Hana,night
+2022-04-30_11-23-46,US,Hana,night
+2022-04-30_11-23-56,US,Hana,night
+2022-04-30_11-24-06,US,Hana,night
+2022-04-30_11-24-15,US,Hana,night
+2022-04-30_11-24-25,US,Hana,night
+2022-04-30_11-24-35,US,Hana,night
+2022-04-30_11-24-45,US,Hana,night
+2022-04-30_11-24-55,US,Hana,night
+2022-04-30_11-25-05,US,Hana,night
+2022-04-30_11-25-15,US,Hana,night
+2022-04-30_11-25-25,US,Ferndale,night
+2022-04-30_11-25-35,US,Ferndale,night
+2022-04-30_11-25-44,US,Ferndale,night
+2022-04-30_11-25-54,US,Ferndale,night
+2022-04-30_11-26-04,US,Ferndale,night
+2022-04-30_11-26-14,US,Ferndale,night
+2022-04-30_11-26-24,US,Ferndale,night
+2022-04-30_11-26-34,US,Ferndale,night
+2022-04-30_11-26-44,US,Ferndale,night
+2022-04-30_11-26-54,US,Ferndale,night
+2022-04-30_11-27-04,US,Ferndale,night
+2022-04-30_11-27-13,US,Ferndale,night
+2022-04-30_11-27-23,US,Ferndale,night
+2022-04-30_11-27-33,US,Port Orford,night
+2022-04-30_11-27-43,US,Port Orford,night
+2022-04-30_11-27-53,US,Port Orford,night
+2022-04-30_11-28-03,US,Port Orford,night
+2022-04-30_11-28-13,US,Port Orford,night
+2022-04-30_11-28-23,US,Port Orford,night
+2022-04-30_11-28-33,US,Port Orford,night
+2022-04-30_11-28-42,US,Port Orford,night
+2022-04-30_11-28-52,US,Port Orford,twilight
+2022-04-30_11-29-02,US,Bandon,twilight
+2022-04-30_11-29-12,US,Bandon,twilight
+2022-04-30_11-29-22,US,Waldport,twilight
+2022-04-30_11-29-32,US,Depoe Bay,twilight
+2022-04-30_11-29-42,US,Depoe Bay,twilight
+2022-04-30_11-29-52,US,Rockaway Beach,twilight
+2022-04-30_11-30-02,US,Cannon Beach,twilight
+2022-04-30_11-30-12,US,Clatskanie,twilight
+2022-04-30_11-30-21,US,Morton,twilight
+2022-04-30_11-30-31,US,Buckley,night
+2022-04-30_11-30-41,US,Tieton,night
+2022-04-30_11-30-51,US,Quincy,night
+2022-04-30_11-31-01,US,Soap Lake,night
+2022-04-30_11-31-11,US,Davenport,night
+2022-04-30_11-31-21,US,Deer Park,night
+2022-04-30_11-31-31,US,Sandpoint,night
+2022-04-30_11-31-41,US,Libby,night
+2022-04-30_11-31-50,US,Eureka,night
+2022-04-30_11-32-00,US,Columbia Falls,night
+2022-04-30_11-32-10,CA,Cardston,night
+2022-04-30_11-32-20,CA,Raymond,night
+2022-04-30_11-32-30,CA,Bow Island,night
+2022-04-30_11-32-40,CA,Medicine Hat,night
+2022-04-30_11-32-50,CA,Maple Creek,night
+2022-04-30_11-33-00,CA,Shaunavon,night
+2022-04-30_11-33-10,CA,Swift Current,sunny
+2022-04-30_11-33-19,CA,Gravelbourg,sunny
+2022-04-30_11-33-29,CA,Moose Jaw,sunny
+2022-04-30_11-33-39,CA,Lumsden,sunny
+2022-04-30_11-33-49,CA,White City,sunny
+2022-04-30_11-33-59,CA,Melville,sunny
+2022-04-30_11-34-09,CA,Yorkton,sunny
+2022-04-30_11-34-19,CA,Roblin,sunny
+2022-04-30_11-34-29,CA,Dauphin,sunny
+2022-04-30_11-34-39,CA,Dauphin,sunny
+2022-04-30_11-34-48,CA,Portage la Prairie,sunny
+2022-04-30_11-34-58,CA,Gimli,sunny
+2022-04-30_11-35-08,CA,Gimli,sunny
+2022-04-30_11-35-18,CA,Lac du Bonnet,sunny
+2022-04-30_11-35-28,CA,Red Lake,sunny
+2022-04-30_11-35-38,CA,Red Lake,sunny
+2022-04-30_11-35-47,CA,Ear Falls,sunny
+2022-04-30_11-35-57,CA,Ear Falls,sunny
+2022-04-30_11-36-07,CA,Ear Falls,rainy
+2022-04-30_11-36-17,CA,Greenstone,rainy
+2022-04-30_11-36-27,CA,Greenstone,rainy
+2022-04-30_11-36-37,CA,Greenstone,rainy
+2022-04-30_11-36-46,CA,Greenstone,rainy
+2022-04-30_11-36-56,CA,Greenstone,rainy
+2022-04-30_11-37-06,CA,Hearst,rainy
+2022-04-30_11-37-16,CA,Hearst,sunny
+2022-04-30_11-37-26,CA,Hearst,sunny
+2022-04-30_11-37-35,CA,Kapuskasing,sunny
+2022-04-30_11-37-45,CA,Kapuskasing,cloudy
+2022-04-30_11-37-55,CA,La Sarre,sunny
+2022-04-30_11-38-05,CA,Matagami,cloudy
+2022-04-30_11-38-15,CA,Matagami,sunny
+2022-04-30_11-38-24,CA,Matagami,sunny
+2022-04-30_11-38-34,CA,Chapais,sunny
+2022-04-30_11-38-44,CA,Chapais,sunny
+2022-04-30_11-38-54,CA,Chibougamau,sunny
+2022-04-30_11-39-04,CA,Chibougamau,sunny
+2022-04-30_11-39-14,CA,Dolbeau-Mistassini,sunny
+2022-04-30_11-39-23,CA,Pont Rouge,sunny
+2022-04-30_11-39-33,CA,Saguenay,rainy
+2022-04-30_11-39-43,CA,Forestville,rainy
+2022-04-30_11-39-53,CA,Chute-aux-Outardes,rainy
+2022-04-30_11-40-03,CA,Baie-Comeau,rainy
+2022-04-30_11-40-12,CA,Cap-Chat,rainy
+2022-04-30_11-40-22,CA,Sainte-Anne-des-Monts,rainy
+2022-04-30_11-40-32,CA,Gaspe,rainy
+2022-04-30_11-40-42,CA,Gaspe,rainy
+2022-04-30_11-40-52,CA,Gaspe,rainy
+2022-04-30_11-41-01,CA,Souris,rainy
+2022-04-30_11-41-11,CA,Souris,rainy
+2022-04-30_11-41-21,CA,Sydney Mines,rainy
+2022-04-30_11-41-31,CA,Channel-Port aux Basques,rainy
+2022-04-30_11-41-41,CA,Channel-Port aux Basques,rainy
+2022-04-30_11-41-50,CA,Channel-Port aux Basques,rainy
+2022-04-30_11-42-00,CA,Burgeo,rainy
+2022-04-30_11-42-10,PM,Saint-Pierre,rainy
+2022-04-30_11-42-20,PM,Saint-Pierre,rainy
+2022-04-30_11-42-30,PM,Saint-Pierre,rainy
+2022-04-30_11-42-39,CA,Marystown,rainy
+2022-04-30_11-42-49,CA,Marystown,rainy
+2022-04-30_11-42-59,CA,Conception Bay South,rainy
+2022-04-30_11-43-09,CA,Mount Pearl,rainy
+2022-04-30_11-43-19,CA,Mount Pearl,rainy
+2022-04-30_11-43-28,CA,Mount Pearl,rainy
+2022-04-30_11-43-38,CA,Mount Pearl,rainy
+2022-04-30_11-43-48,CA,St. John's,rainy
+2022-04-30_11-43-58,CA,St. John's,rainy
+2022-04-30_11-44-08,CA,St. John's,cloudy
+2022-04-30_11-44-17,CA,St. John's,cloudy
+2022-04-30_11-44-27,CA,St. John's,cloudy
+2022-04-30_11-44-37,CA,St. John's,sunny
+2022-04-30_11-44-47,CA,St. John's,cloudy
+2022-04-30_11-44-57,CA,St. John's,sunny
+2022-04-30_11-45-07,CA,St. John's,cloudy
+2022-04-30_11-45-16,CA,St. John's,cloudy
+2022-04-30_11-45-26,CA,St. John's,rainy
+2022-04-30_11-45-36,CA,St. John's,rainy
+2022-04-30_11-45-46,PT,Ribeira Grande,rainy
+2022-04-30_11-45-55,PT,Ribeira Grande,cloudy
+2022-04-30_11-46-05,PT,Ribeira Grande,cloudy
+2022-04-30_11-46-15,PT,Ribeira Grande,sunny
+2022-04-30_11-46-25,PT,Ribeira Grande,sunny
+2022-04-30_11-46-35,PT,Ribeira Grande,sunny
+2022-04-30_11-46-44,PT,Ribeira Grande,sunny
+2022-04-30_11-46-54,PT,Ribeira Grande,sunny
+2022-04-30_11-47-04,PT,Ribeira Grande,sunny
+2022-04-30_11-47-14,PT,Ribeira Grande,sunny
+2022-04-30_11-47-24,PT,Ribeira Grande,sunny
+2022-04-30_11-47-34,PT,Ribeira Grande,sunny
+2022-04-30_11-47-43,PT,Ribeira Grande,sunny
+2022-04-30_11-47-53,PT,Ribeira Grande,sunny
+2022-04-30_11-48-03,PT,Ribeira Grande,sunny
+2022-04-30_11-48-13,PT,Ribeira Grande,sunny
+2022-04-30_11-48-23,PT,Ribeira Grande,sunny
+2022-04-30_11-48-33,PT,Ribeira Grande,sunny
+2022-04-30_11-48-42,PT,Ribeira Grande,sunny
+2022-04-30_11-48-52,PT,Ribeira Grande,sunny
+2022-04-30_11-49-02,PT,Ribeira Grande,sunny
+2022-04-30_11-49-12,PT,Ribeira Grande,sunny
+2022-04-30_11-49-22,PT,Ribeira Grande,sunny
+2022-04-30_11-49-31,PT,Ponta Delgada,sunny
+2022-04-30_11-49-41,PT,Ponta Delgada,sunny
+2022-04-30_11-49-51,PT,Ponta Delgada,sunny
+2022-04-30_11-50-01,ES,Frontera,sunny
+2022-04-30_11-50-11,ES,Frontera,cloudy
+2022-04-30_11-50-21,ES,Frontera,cloudy
+2022-04-30_11-50-30,ES,Frontera,cloudy
+2022-04-30_11-50-40,ES,Frontera,rainy
+2022-04-30_11-50-50,ES,Frontera,rainy
+2022-04-30_11-51-00,ES,Frontera,rainy
+2022-04-30_11-51-10,ES,Frontera,rainy
+2022-04-30_11-51-19,ES,Frontera,rainy
+2022-04-30_11-51-29,CV,Ponta do Sol,rainy
+2022-04-30_11-51-39,CV,Ponta do Sol,rainy
+2022-04-30_11-51-49,CV,Ponta do Sol,rainy
+2022-04-30_11-51-59,CV,Espargos,rainy
+2022-04-30_11-52-08,MR,Nouadhibou,cloudy
+2022-04-30_11-52-18,MR,Nouadhibou,sunny
+2022-04-30_11-52-28,MR,Nouadhibou,sunny
+2022-04-30_11-52-38,MR,Nouadhibou,sunny
+2022-04-30_11-52-47,MR,Nouadhibou,sunny
+2022-04-30_11-52-57,MR,Nouadhibou,sunny
+2022-04-30_11-53-07,MR,Nouadhibou,sunny
+2022-04-30_11-53-17,MR,Nouadhibou,sunny
+2022-04-30_11-53-27,MR,Nouakchott,sunny
+2022-04-30_11-53-37,MR,Nouakchott,sunny
+2022-04-30_11-53-46,SN,Saint-Louis,sunny
+2022-04-30_11-53-56,SN,Saint-Louis,sunny
+2022-04-30_11-54-06,SN,Saint-Louis,sunny
+2022-04-30_11-54-16,SN,Saint-Louis,sunny
+2022-04-30_11-54-26,SN,Mekhe,sunny
+2022-04-30_11-54-35,SN,Diourbel,sunny
+2022-04-30_11-54-45,SN,Guinguineo,sunny
+2022-04-30_11-54-55,GM,Farafenni,sunny
+2022-04-30_11-55-05,GM,Bureng,sunny
+2022-04-30_11-55-15,SN,Kolda,sunny
+2022-04-30_11-55-25,GW,Gabu,sunny
+2022-04-30_11-55-34,GW,Gabu,sunny
+2022-04-30_11-55-44,GN,Gaoual,sunny
+2022-04-30_11-55-54,GN,Telimele,sunny
+2022-04-30_11-56-04,GN,Kindia,cloudy
+2022-04-30_11-56-14,GN,Kindia,cloudy
+2022-04-30_11-56-23,SL,Kamakwie,sunny
+2022-04-30_11-56-33,SL,Masingbi,sunny
+2022-04-30_11-56-43,SL,Barma,sunny
+2022-04-30_11-56-53,SL,Giehun,cloudy
+2022-04-30_11-57-03,LR,Bopolu,sunny
+2022-04-30_11-57-12,LR,Bopolu,rainy
+2022-04-30_11-57-22,LR,Kakata,sunny
+2022-04-30_11-57-32,LR,Buchanan,sunny
+2022-04-30_11-57-42,LR,Cestos City,rainy
+2022-04-30_11-57-52,LR,Greenville,rainy
+2022-04-30_11-58-01,LR,Barclayville,rainy
+2022-04-30_11-58-11,LR,Harper City,cloudy
+2022-04-30_11-58-21,LR,Harper City,cloudy
+2022-04-30_11-58-31,LR,Harper City,cloudy
+2022-04-30_11-58-41,CI,Tabou,cloudy
+2022-04-30_11-58-50,CI,Tabou,cloudy
+2022-04-30_11-59-00,CI,Tabou,cloudy
+2022-04-30_11-59-10,CI,Tabou,sunny
+2022-04-30_11-59-20,CI,Tabou,sunny
+2022-04-30_11-59-30,CI,Tabou,sunny
+2022-04-30_11-59-39,CI,Tabou,sunny
+2022-04-30_11-59-49,CI,Tabou,sunny
+2022-04-30_11-59-59,CI,Tabou,sunny
+2022-04-30_12-00-09,GH,Axim,sunny
+2022-04-30_12-00-19,GH,Axim,sunny
+2022-04-30_12-00-28,GH,Axim,sunny
+2022-04-30_12-00-38,GH,Axim,sunny
+2022-04-30_12-00-48,GQ,Pale,cloudy
+2022-04-30_12-00-58,GQ,Pale,cloudy
+2022-04-30_12-01-08,GQ,Pale,cloudy
+2022-04-30_12-01-17,GQ,Pale,rainy
+2022-04-30_12-01-27,GQ,Pale,rainy
+2022-04-30_12-01-37,GQ,Pale,rainy
+2022-04-30_12-01-47,GQ,Pale,cloudy
+2022-04-30_12-01-57,GQ,Pale,cloudy
+2022-04-30_12-02-06,GQ,Pale,cloudy
+2022-04-30_12-02-16,GQ,Pale,sunny
+2022-04-30_12-02-26,GQ,Pale,sunny
+2022-04-30_12-02-36,GQ,Pale,sunny
+2022-04-30_12-02-46,SH,Jamestown,sunny
+2022-04-30_12-02-55,SH,Jamestown,sunny
+2022-04-30_12-03-05,SH,Jamestown,sunny
+2022-04-30_12-03-15,SH,Jamestown,cloudy
+2022-04-30_12-03-25,AO,Namibe,sunny
+2022-04-30_12-03-35,AO,Namibe,sunny
+2022-04-30_12-03-44,AO,Namibe,sunny
+2022-04-30_12-03-54,AO,Namibe,sunny
+2022-04-30_12-04-04,AO,Namibe,sunny
+2022-04-30_12-04-14,AO,Namibe,sunny
+2022-04-30_12-04-24,AO,Namibe,sunny
+2022-04-30_12-04-33,AO,Namibe,sunny
+2022-04-30_12-04-43,AO,Namibe,sunny
+2022-04-30_12-04-53,AO,Namibe,sunny
+2022-04-30_12-05-03,AO,Namibe,sunny
+2022-04-30_12-05-13,AO,Namibe,sunny
+2022-04-30_12-05-23,AO,Namibe,sunny
+2022-04-30_12-05-32,AO,Namibe,sunny
+2022-04-30_12-05-42,AO,Namibe,sunny
+2022-04-30_12-05-52,NA,Opuwo,sunny
+2022-04-30_12-06-02,NA,Opuwo,sunny
+2022-04-30_12-06-12,NA,Opuwo,sunny
+2022-04-30_12-06-21,NA,Hentiesbaai,sunny
+2022-04-30_12-06-31,NA,Hentiesbaai,sunny
+2022-04-30_12-06-41,NA,Hentiesbaai,sunny
+2022-04-30_12-06-51,NA,Hentiesbaai,sunny
+2022-04-30_12-07-01,NA,Hentiesbaai,sunny
+2022-04-30_12-07-10,NA,Walvis Bay,sunny
+2022-04-30_12-07-20,NA,Walvis Bay,sunny
+2022-04-30_12-07-30,NA,Walvis Bay,sunny
+2022-04-30_12-07-40,NA,Walvis Bay,sunny
+2022-04-30_12-07-50,NA,Luderitz,sunny
+2022-04-30_12-07-59,NA,Luderitz,sunny
+2022-04-30_12-08-09,NA,Luderitz,sunny
+2022-04-30_12-08-19,NA,Luderitz,sunny
+2022-04-30_12-08-29,NA,Luderitz,sunny
+2022-04-30_12-08-39,NA,Luderitz,sunny
+2022-04-30_12-08-48,NA,Oranjemund,sunny
+2022-04-30_12-08-58,NA,Oranjemund,sunny
+2022-04-30_12-09-08,ZA,Port Nolloth,sunny
+2022-04-30_12-09-18,ZA,Springbok,sunny
+2022-04-30_12-09-28,ZA,Springbok,sunny
+2022-04-30_12-09-38,ZA,Pofadder,sunny
+2022-04-30_12-09-47,ZA,Calvinia,sunny
+2022-04-30_12-09-57,ZA,Calvinia,sunny
+2022-04-30_12-10-07,ZA,Williston,sunny
+2022-04-30_12-10-17,ZA,Williston,sunny
+2022-04-30_12-10-27,ZA,Williston,sunny
+2022-04-30_12-10-36,ZA,Prince Albert,sunny
+2022-04-30_12-10-46,ZA,Prince Albert,sunny
+2022-04-30_12-10-56,ZA,Knysna,sunny
+2022-04-30_12-11-06,ZA,Plettenberg Bay,sunny
+2022-04-30_12-11-16,ZA,Kareedouw,sunny
+2022-04-30_12-11-25,ZA,Kruisfontein,sunny
+2022-04-30_12-11-35,ZA,Jeffrey's Bay,cloudy
+2022-04-30_12-11-45,ZA,Port Elizabeth,cloudy
+2022-04-30_12-11-55,ZA,Port Elizabeth,cloudy
+2022-04-30_12-12-05,ZA,Port Elizabeth,cloudy
+2022-04-30_12-12-15,ZA,Port Alfred,cloudy
+2022-04-30_12-12-24,ZA,Port Alfred,cloudy
+2022-04-30_12-12-34,ZA,Port Alfred,cloudy
+2022-04-30_12-12-44,ZA,Port Alfred,cloudy
+2022-04-30_12-12-54,ZA,Port Alfred,rainy
+2022-04-30_12-13-04,ZA,Port Alfred,rainy
+2022-04-30_12-13-13,ZA,East London,rainy
+2022-04-30_12-13-23,ZA,East London,rainy
+2022-04-30_12-13-33,ZA,East London,rainy
+2022-04-30_12-13-43,ZA,East London,cloudy
+2022-04-30_12-13-53,ZA,East London,cloudy
+2022-04-30_12-14-02,ZA,East London,rainy
+2022-04-30_12-14-12,ZA,East London,rainy
+2022-04-30_12-14-22,ZA,East London,rainy
+2022-04-30_12-14-32,ZA,East London,rainy
+2022-04-30_12-14-42,ZA,East London,rainy
+2022-04-30_12-14-51,ZA,East London,rainy
+2022-04-30_12-15-01,ZA,Port Saint John's,cloudy
+2022-04-30_12-15-11,ZA,Port Saint John's,cloudy
+2022-04-30_12-15-21,ZA,Port Saint John's,cloudy
+2022-04-30_12-15-31,ZA,Port Saint John's,cloudy
+2022-04-30_12-15-40,ZA,Port Saint John's,cloudy
+2022-04-30_12-15-50,ZA,Port Saint John's,cloudy
+2022-04-30_12-16-00,ZA,Port Saint John's,cloudy
+2022-04-30_12-16-10,ZA,Margate,sunny
+2022-04-30_12-16-20,ZA,Margate,sunny
+2022-04-30_12-16-30,ZA,Margate,cloudy
+2022-04-30_12-16-39,MG,Tranovaho,cloudy
+2022-04-30_12-16-49,MG,Tsiombe,cloudy
+2022-04-30_12-16-59,MG,Tsiombe,cloudy
+2022-04-30_12-17-09,MG,Tsiombe,cloudy
+2022-04-30_12-17-19,TF,Port-aux-Francais,sunny
+2022-04-30_12-17-28,TF,Port-aux-Francais,cloudy
+2022-04-30_12-17-38,TF,Port-aux-Francais,sunny
+2022-04-30_12-17-48,TF,Port-aux-Francais,sunny
+2022-04-30_12-17-58,TF,Port-aux-Francais,sunny
+2022-04-30_12-18-08,TF,Port-aux-Francais,sunny
+2022-04-30_12-18-18,TF,Port-aux-Francais,rainy
+2022-04-30_12-18-27,TF,Port-aux-Francais,rainy
+2022-04-30_12-18-37,TF,Port-aux-Francais,sunny
+2022-04-30_12-18-47,TF,Port-aux-Francais,sunny
+2022-04-30_12-18-57,TF,Port-aux-Francais,sunny
+2022-04-30_12-19-07,TF,Port-aux-Francais,sunny
+2022-04-30_12-19-17,TF,Port-aux-Francais,sunny
+2022-04-30_12-19-26,TF,Port-aux-Francais,sunny
+2022-04-30_12-19-36,TF,Port-aux-Francais,sunny
+2022-04-30_12-19-46,TF,Port-aux-Francais,sunny
+2022-04-30_12-19-56,TF,Port-aux-Francais,sunny
+2022-04-30_12-20-06,TF,Port-aux-Francais,sunny
+2022-04-30_12-20-16,TF,Port-aux-Francais,sunny
+2022-04-30_12-20-25,TF,Port-aux-Francais,sunny
+2022-04-30_12-20-35,TF,Port-aux-Francais,sunny
+2022-04-30_12-20-45,TF,Port-aux-Francais,cloudy
+2022-04-30_12-20-55,TF,Port-aux-Francais,cloudy
+2022-04-30_12-21-05,TF,Port-aux-Francais,twilight
+2022-04-30_12-21-15,TF,Port-aux-Francais,cloudy
+2022-04-30_12-21-25,TF,Port-aux-Francais,twilight
+2022-04-30_12-21-35,TF,Port-aux-Francais,twilight
+2022-04-30_12-21-45,TF,Port-aux-Francais,twilight
+2022-04-30_12-21-55,TF,Port-aux-Francais,twilight
+2022-04-30_12-22-04,TF,Port-aux-Francais,twilight
+2022-04-30_12-22-14,TF,Port-aux-Francais,twilight
+2022-04-30_12-22-24,TF,Port-aux-Francais,twilight
+2022-04-30_12-22-34,TF,Port-aux-Francais,twilight
+2022-04-30_12-22-44,TF,Port-aux-Francais,twilight
+2022-04-30_12-22-54,TF,Port-aux-Francais,twilight
+2022-04-30_12-23-04,TF,Port-aux-Francais,twilight
+2022-04-30_12-23-14,TF,Port-aux-Francais,twilight
+2022-04-30_12-23-24,TF,Port-aux-Francais,twilight
+2022-04-30_12-23-33,TF,Port-aux-Francais,twilight
+2022-04-30_12-23-43,TF,Port-aux-Francais,twilight
+2022-04-30_12-23-53,TF,Port-aux-Francais,twilight
+2022-04-30_12-24-03,TF,Port-aux-Francais,twilight
+2022-04-30_12-24-13,TF,Port-aux-Francais,night
+2022-04-30_12-24-23,TF,Port-aux-Francais,night
+2022-04-30_12-24-33,TF,Port-aux-Francais,twilight
+2022-04-30_12-24-43,TF,Port-aux-Francais,twilight
+2022-04-30_12-24-53,TF,Port-aux-Francais,twilight
+2022-04-30_12-25-03,TF,Port-aux-Francais,twilight
+2022-04-30_12-25-12,TF,Port-aux-Francais,twilight
+2022-04-30_12-25-22,TF,Port-aux-Francais,twilight
+2022-04-30_12-25-32,TF,Port-aux-Francais,twilight
+2022-04-30_12-25-42,AU,Augusta,twilight
+2022-04-30_12-25-52,AU,Augusta,night
+2022-04-30_12-26-02,AU,Augusta,night
+2022-04-30_12-26-12,AU,Augusta,night
+2022-04-30_12-26-22,AU,Augusta,night
+2022-04-30_12-26-32,AU,Augusta,night
+2022-04-30_12-26-42,AU,Augusta,night
+2022-04-30_12-26-51,AU,Augusta,night
+2022-04-30_12-27-01,AU,Augusta,night
+2022-04-30_12-27-11,AU,Augusta,night
+2022-04-30_12-27-21,AU,Augusta,night
+2022-04-30_12-27-31,AU,Augusta,night
+2022-04-30_12-27-41,AU,Augusta,night
+2022-04-30_12-27-51,AU,Augusta,night
+2022-04-30_12-28-01,AU,Augusta,night
+2022-04-30_12-28-11,AU,Augusta,night
+2022-04-30_12-28-20,AU,Augusta,night
+2022-04-30_12-28-30,AU,Augusta,night
+2022-04-30_12-28-40,AU,Augusta,night
+2022-04-30_12-28-50,AU,Augusta,night
+2022-04-30_12-29-00,AU,Denmark,night
+2022-04-30_12-29-10,AU,Denmark,night
+2022-04-30_12-29-20,AU,Denmark,night
+2022-04-30_12-29-30,AU,Denmark,night
+2022-04-30_12-29-40,AU,Denmark,night
+2022-04-30_12-29-50,AU,Grasmere,night
+2022-04-30_12-29-59,AU,Grasmere,night
+2022-04-30_12-30-09,AU,Grasmere,night
+2022-04-30_12-30-19,AU,Grasmere,night
+2022-04-30_12-30-29,AU,Albany,night
+2022-04-30_12-30-39,AU,Albany,night
+2022-04-30_12-30-49,AU,Albany,night
+2022-04-30_12-30-59,AU,Albany,night
+2022-04-30_12-31-09,AU,Esperance,night
+2022-04-30_12-31-19,AU,Esperance,night
+2022-04-30_12-31-29,AU,Esperance,night
+2022-04-30_12-31-38,AU,Esperance,night
+2022-04-30_12-31-48,AU,Esperance,night
+2022-04-30_12-31-58,AU,Esperance,night
+2022-04-30_12-32-08,AU,Esperance,night
+2022-04-30_12-32-18,AU,Esperance,night
+2022-04-30_12-32-28,AU,Esperance,night
+2022-04-30_12-32-38,AU,Esperance,night
+2022-04-30_12-32-48,AU,Streaky Bay,night
+2022-04-30_12-32-58,AU,Streaky Bay,night
+2022-04-30_12-33-08,AU,Streaky Bay,night
+2022-04-30_12-33-17,AU,Streaky Bay,night
+2022-04-30_12-33-27,AU,Streaky Bay,night
+2022-04-30_12-33-37,AU,Streaky Bay,night
+2022-04-30_12-33-47,AU,Streaky Bay,night
+2022-04-30_12-33-57,AU,Streaky Bay,night
+2022-04-30_12-34-07,AU,Streaky Bay,night
+2022-04-30_12-34-17,AU,Streaky Bay,night
+2022-04-30_12-34-27,AU,Streaky Bay,night
+2022-04-30_12-34-37,AU,Streaky Bay,night
+2022-04-30_12-34-46,AU,Streaky Bay,night
+2022-04-30_12-34-56,AU,Caralue,night
+2022-04-30_12-35-06,AU,Caralue,night
+2022-04-30_12-35-16,AU,Roxby Downs,night
+2022-04-30_12-35-26,AU,Roxby Downs,night
+2022-04-30_12-35-36,AU,Roxby Downs,night
+2022-04-30_12-35-46,AU,Roxby Downs,night
+2022-04-30_12-35-56,AU,The Sill,night
+2022-04-30_12-36-06,AU,The Sill,night
+2022-04-30_12-36-16,AU,The Sill,night
+2022-04-30_12-36-25,AU,Innamincka,night
+2022-04-30_12-36-35,AU,Innamincka,night
+2022-04-30_12-36-45,AU,Innamincka,night
+2022-04-30_12-36-55,AU,Innamincka,night
+2022-04-30_12-37-05,AU,Innamincka,night
+2022-04-30_12-37-15,AU,Innamincka,night
+2022-04-30_12-37-25,AU,Innamincka,night
+2022-04-30_12-37-35,AU,Innamincka,night
+2022-04-30_12-37-45,AU,Hughenden,night
+2022-04-30_12-37-54,AU,Hughenden,night
+2022-04-30_12-38-04,AU,Hughenden,night
+2022-04-30_12-38-14,AU,Hughenden,night
+2022-04-30_12-38-24,AU,Hughenden,night
+2022-04-30_12-38-34,AU,Hughenden,night
+2022-04-30_12-38-44,AU,Charters Towers,night
+2022-04-30_12-38-54,AU,Charters Towers,night
+2022-04-30_12-39-04,AU,Charters Towers,night
+2022-04-30_12-39-14,AU,Home Hill,night
+2022-04-30_12-39-24,AU,Bowen,night
+2022-04-30_12-39-33,AU,Bowen,night
+2022-04-30_12-39-43,AU,Bowen,night
+2022-04-30_12-39-53,AU,Bowen,night
+2022-04-30_12-40-03,AU,Bowen,night
+2022-04-30_12-40-13,AU,Bowen,night
+2022-04-30_12-40-23,AU,Bowen,night
+2022-04-30_12-40-33,AU,Bowen,night
+2022-04-30_12-40-43,AU,Bowen,night
+2022-04-30_12-40-53,PG,Samarai,night
+2022-04-30_12-41-02,PG,Samarai,night
+2022-04-30_12-41-12,PG,Samarai,night
+2022-04-30_12-41-22,PG,Samarai,night
+2022-04-30_12-41-32,PG,Samarai,night
+2022-04-30_12-41-42,PG,Samarai,night
+2022-04-30_12-41-52,PG,Samarai,night
+2022-04-30_12-42-02,PG,Samarai,night
+2022-04-30_12-42-12,PG,Samarai,night
+2022-04-30_12-42-22,SB,Gizo,night
+2022-04-30_12-42-32,SB,Gizo,night
+2022-04-30_12-42-41,SB,Gizo,night
+2022-04-30_12-42-51,SB,Gizo,night
+2022-04-30_12-43-01,SB,Gizo,night
+2022-04-30_12-43-11,SB,Gizo,night
+2022-04-30_12-43-21,SB,Gizo,night
+2022-04-30_12-43-31,SB,Gizo,night
+2022-04-30_12-43-41,SB,Gizo,night
+2022-04-30_12-43-51,SB,Gizo,night
+2022-04-30_12-44-01,SB,Buala,night
+2022-04-30_12-44-10,SB,Buala,night
+2022-04-30_12-44-20,SB,Buala,night
+2022-04-30_12-44-30,SB,Buala,night
+2022-04-30_12-44-40,SB,Buala,night
+2022-04-30_12-44-50,SB,Buala,night
+2022-04-30_12-45-00,SB,Buala,night
+2022-04-30_12-45-10,SB,Buala,night
+2022-04-30_12-45-20,NR,Arijejen,night
+2022-04-30_12-45-30,NR,Arijejen,night
+2022-04-30_12-45-40,NR,Arijejen,night
+2022-04-30_12-45-49,NR,Arijejen,night
+2022-04-30_12-45-59,NR,Arijejen,night
+2022-04-30_12-46-09,NR,Arijejen,night
+2022-04-30_12-46-19,NR,Arijejen,night
+2022-04-30_12-46-29,FM,Utwe,night
+2022-04-30_12-46-39,FM,Malem,night
+2022-04-30_12-46-49,FM,Malem,night
+2022-04-30_12-46-59,FM,Malem,night
+2022-04-30_12-47-08,FM,Malem,night
+2022-04-30_12-47-18,FM,Malem,night
+2022-04-30_12-47-28,MH,Namdrik,night
+2022-04-30_12-47-38,MH,Namdrik,night
+2022-04-30_12-47-48,MH,Namdrik,night
+2022-04-30_12-47-58,MH,Namdrik,night
+2022-04-30_12-48-08,MH,Namdrik,night
+2022-04-30_12-48-18,MH,Loen,night
+2022-04-30_12-48-28,MH,Loen,night
+2022-04-30_12-48-37,MH,Loen,night
+2022-04-30_12-48-47,MH,Jabat,night
+2022-04-30_12-48-57,MH,Likiep,night
+2022-04-30_12-49-07,MH,Likiep,night
+2022-04-30_12-49-17,MH,Ailuk,night
+2022-04-30_12-49-27,MH,Ailuk,night
+2022-04-30_12-49-37,MH,Utrik,night
+2022-04-30_12-49-47,MH,Utrik,night
+2022-04-30_12-49-57,MH,Utrik,night
+2022-04-30_12-50-06,MH,Utrik,night
+2022-04-30_12-50-16,MH,Utrik,night
+2022-04-30_12-50-26,MH,Utrik,night
+2022-04-30_12-50-36,MH,Utrik,night
+2022-04-30_12-50-46,MH,Utrik,night
+2022-04-30_12-50-56,MH,Utrik,night
+2022-04-30_12-51-06,MH,Utrik,night
+2022-04-30_12-51-16,MH,Utrik,night
+2022-04-30_12-51-26,MH,Utrik,night
+2022-04-30_12-51-36,MH,Utrik,night
+2022-04-30_12-51-45,MH,Utrik,night
+2022-04-30_12-51-55,MH,Utrik,night
+2022-04-30_12-52-05,MH,Utrik,night
+2022-04-30_12-52-15,MH,Utrik,night
+2022-04-30_12-52-25,MH,Utrik,night
+2022-04-30_12-52-35,MH,Utrik,night
+2022-04-30_12-52-45,MH,Utrik,night
+2022-04-30_12-52-55,MH,Utrik,night
+2022-04-30_12-53-05,MH,Utrik,night
+2022-04-30_12-53-14,MH,Utrik,night
+2022-04-30_12-53-24,MH,Utrik,night
+2022-04-30_12-53-34,US,Kekaha,night
+2022-04-30_12-53-44,US,Kekaha,night
+2022-04-30_12-53-54,US,Kekaha,night
+2022-04-30_12-54-04,US,Kekaha,night
+2022-04-30_12-54-14,US,Kekaha,night
+2022-04-30_12-54-24,US,Kekaha,night
+2022-04-30_12-54-34,US,Kekaha,night
+2022-04-30_12-54-44,US,Kekaha,night
+2022-04-30_12-54-53,US,Kekaha,night
+2022-04-30_12-55-03,US,Kekaha,night
+2022-04-30_12-55-13,US,Kekaha,night
+2022-04-30_12-55-23,US,Kekaha,night
+2022-04-30_12-55-33,US,Kekaha,night
+2022-04-30_12-55-43,US,Kekaha,night
+2022-04-30_12-55-53,US,Kekaha,night
+2022-04-30_12-56-03,US,Kekaha,night
+2022-04-30_12-56-13,US,Kekaha,night
+2022-04-30_12-56-22,US,Kekaha,night
+2022-04-30_12-56-32,US,Kekaha,night
+2022-04-30_12-56-42,US,Kekaha,night
+2022-04-30_12-56-52,US,Kekaha,night
+2022-04-30_12-57-02,US,Princeville,night
+2022-04-30_12-57-12,US,Princeville,night
+2022-04-30_12-57-22,US,Princeville,night
+2022-04-30_12-57-32,US,Princeville,night
+2022-04-30_12-57-42,US,Princeville,night
+2022-04-30_12-57-52,US,Princeville,night
+2022-04-30_12-58-01,US,Princeville,night
+2022-04-30_12-58-11,US,Princeville,night
+2022-04-30_12-58-21,US,Princeville,night
+2022-04-30_12-58-31,US,Princeville,night
+2022-04-30_12-58-41,US,Princeville,night
+2022-04-30_12-58-51,US,Princeville,night
+2022-04-30_12-59-01,US,Princeville,night
+2022-04-30_12-59-11,US,Princeville,night
+2022-04-30_12-59-20,US,Unalaska,night
+2022-04-30_12-59-30,US,Unalaska,night
+2022-04-30_12-59-40,US,Akutan,night
+2022-04-30_12-59-50,US,Akutan,night
+2022-04-30_13-00-00,US,Akutan,night
+2022-04-30_13-00-10,US,Sand Point,night
+2022-04-30_13-00-20,US,Sand Point,night
+2022-04-30_13-00-30,US,Sand Point,night
+2022-04-30_13-00-40,US,Sand Point,night
+2022-04-30_13-00-50,US,Sand Point,night
+2022-04-30_13-00-59,US,Sand Point,night
+2022-04-30_13-01-09,US,Sand Point,night
+2022-04-30_13-01-19,US,Sand Point,night
+2022-04-30_13-01-29,US,Sand Point,night
+2022-04-30_13-01-39,US,Sand Point,twilight
+2022-04-30_13-01-49,US,Kodiak Station,twilight
+2022-04-30_13-01-59,US,Kodiak Station,twilight
+2022-04-30_13-02-09,US,Kodiak Station,twilight
+2022-04-30_13-02-19,US,Kodiak,twilight
+2022-04-30_13-02-29,US,Kodiak,twilight
+2022-04-30_13-02-38,US,Kodiak,twilight
+2022-04-30_13-02-48,US,Kodiak,twilight
+2022-04-30_13-02-58,US,Kodiak,twilight
+2022-04-30_13-03-08,US,Kodiak,twilight
+2022-04-30_13-03-18,US,Kodiak,twilight
+2022-04-30_13-03-28,US,Kodiak,night
+2022-04-30_13-03-38,US,Sitka,night
+2022-04-30_13-03-48,US,Sitka,night
+2022-04-30_13-03-58,US,Sitka,night
+2022-04-30_13-04-08,US,Sitka,night
+2022-04-30_13-04-17,US,Sitka,night
+2022-04-30_13-04-27,US,Craig,night
+2022-04-30_13-04-37,US,Craig,night
+2022-04-30_13-04-47,US,Craig,night
+2022-04-30_13-04-57,US,Craig,night
+2022-04-30_13-05-07,US,Craig,night
+2022-04-30_13-05-17,US,Craig,night
+2022-04-30_13-05-27,US,Craig,night
+2022-04-30_13-05-37,CA,Prince Rupert,night
+2022-04-30_13-05-47,CA,Prince Rupert,night
+2022-04-30_13-05-57,CA,Prince Rupert,night
+2022-04-30_13-06-06,CA,Prince Rupert,twilight
+2022-04-30_13-06-16,CA,Kitimat,twilight
